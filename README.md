@@ -4,7 +4,7 @@ nombre
 apellido 
 edad y etc de la persona 
 
-viene con dos caracteristicas nuevas , descarga nueva  version 1.3
+viene con dos caracteristicas nuevas , descarga nueva  version 3.0
 
 ! [] ()
 
